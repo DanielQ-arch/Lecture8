@@ -1,0 +1,40 @@
+div{
+    width: 100px;
+    height:100px;
+    background-color: crimson;
+    color: white;
+    border: 2px black,solid;
+    display: inline-block;
+}
+
+#box1{
+    background-color: blue;
+   
+}
+
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.N_MgeEAgz3C61hFZqczYpAHaE7?rs=1&pid=ImgDetMain);
+    background-size: cover;
+}
+#box2{
+    background-color: green;
+    
+}
+
+#box3{
+    background-color: deepskyblue;
+    
+}
+
+
+
+#container{
+    width:600px;
+    height: 400px;
+    background-color: white;
+    border: 4px,black,solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
